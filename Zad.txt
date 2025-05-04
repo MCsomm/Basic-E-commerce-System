@@ -1,0 +1,13 @@
+12
+pero KAUFLAND 1 2 1
+telefon HUWAEI 2 0 9
+telefon HTC 3 1 1
+telefon SAMSUNG 4 4 2
+zosit KAUFLAND 5 4 1
+pohar IKEA 6 1 1
+kos IKEA 7 2 7
+postel IKEA 8 2 5
+mineralka BUDIS 9 4 2
+mineralka FATRA 10 3 4
+mineralka MAGNESIA 11 1 3
+stol IKEA 12 2 2
